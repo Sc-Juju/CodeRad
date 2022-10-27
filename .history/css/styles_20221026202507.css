@@ -61,4 +61,6 @@
 }
 .hero-header{
     color: var(--white);
+    padding: .475rem 1.75rem;
+    
 }

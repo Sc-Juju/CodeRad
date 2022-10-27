@@ -6,7 +6,7 @@
     z-index: 200;
     transition: ease-in-out .3s;
 }
-[aria-controls="navbarDropdown"]{
+[aria-controls="navbarDrowdown"]{
     display:none;
 }
 .navbar-nav{
