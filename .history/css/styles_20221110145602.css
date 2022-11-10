@@ -140,7 +140,7 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
 }
 .video-box{
     position: relative;
-    margin-bottom: -9.375rem;
+    margin-bottom: var(--size-150);
     z-index: 100;
 }
 .video-box > img{
