@@ -75,7 +75,6 @@
 .block-text span{
     color: var(--font-color-dark);
     font-weight: 300;
-}
 .block-text h2{
     font-size: var(--size-40);
     font-family: "Hind", sans-serif;

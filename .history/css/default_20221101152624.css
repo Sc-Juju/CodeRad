@@ -83,9 +83,6 @@ img {
     background-image: linear-gradient(90deg, var(--grad-1)0%, var(--grad-2)100%);
     border: 1px var(--grad-1);
     box-shadow: 0 10px 20px rgba(161, 236, 255, .5);
-    transition: ease-in-out .3s;
-    color: var(--white);
-    padding: .4375rem 1.5625rem;
 }
 
 .btn-white{
