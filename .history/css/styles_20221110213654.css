@@ -148,7 +148,3 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
     max-width: 600px;
     border-radius: 8px;
 }
-.block-text.pricing-header{
-    text-align: center;
-    padding-right: 0;
-}
