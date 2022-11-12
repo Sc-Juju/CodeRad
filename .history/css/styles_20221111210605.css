@@ -158,7 +158,6 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
     grid-template-columns: repeat(auto-fit, minmax(215px, 1fr));
     gap: var(--size-18);
     margin: auto;
-    align-items: flex-start;
 }
 .price-card{
     background-color:var(--white);
