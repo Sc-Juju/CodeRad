@@ -250,9 +250,3 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
     font-size: var(--size-16);
     line-height: 1.6;
 }
-
-.testimonial-card.lg span{
-    width: 4.375rem;
-    float: right;
-    margin-top: var(--size-16);
-}
