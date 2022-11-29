@@ -7,17 +7,6 @@
     transition: ease-in-out .3s;
 }
 
-.navbar.sticky{
-    background-color: var(--white);
-    box-shadow: 0px 0px 20px rgba(48, 63, 100, .2);
-}
-
-.navbar.sticky .navbar-toggler span,
-.navbar.sticky .navbar-brand{
-    color: var(--font-color-dark);
-}
-
-
 .navbar-toggler{
     position: absolute;
     right: var(--size-20);
@@ -95,9 +84,6 @@
 .hero-header{
     color: var(--white);
 }
-
-.why-me{ padding: var(--size-150) 0; }
-
 .why-me-wrapper{
     display: flex;
     align-items: center;
@@ -194,7 +180,7 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
 .pricing-table{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(215px, 1fr));
-    gap: var(--size-30);
+    gap: var(--size-18);
     margin: auto;
     align-items: flex-start;
 }
@@ -306,10 +292,7 @@ footer .footer-top {
     padding: var(--size-100) 0;
 }
 
-footer .footer-col{
-    justify-self: center;
-    max-width: 250px;
-}
+footer .footer-col{justify-self: center;}
 
 .footer-top h5{
     color: var(--white);

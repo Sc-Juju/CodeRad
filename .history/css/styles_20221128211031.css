@@ -95,9 +95,6 @@
 .hero-header{
     color: var(--white);
 }
-
-.why-me{ padding: var(--size-150) 0; }
-
 .why-me-wrapper{
     display: flex;
     align-items: center;
@@ -194,7 +191,7 @@ span.bg-color-6 {background-image: linear-gradient(90deg, #a1ecff 0%, #7dbcff 10
 .pricing-table{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(215px, 1fr));
-    gap: var(--size-30);
+    gap: var(--size-18);
     margin: auto;
     align-items: flex-start;
 }
@@ -306,10 +303,7 @@ footer .footer-top {
     padding: var(--size-100) 0;
 }
 
-footer .footer-col{
-    justify-self: center;
-    max-width: 250px;
-}
+footer .footer-col{justify-self: center;}
 
 .footer-top h5{
     color: var(--white);
