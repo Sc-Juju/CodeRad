@@ -302,7 +302,6 @@ footer .footer-col{justify-self: center;}
 }
 
 .services-wrapper p { color: #858497;}
-.services-wrapper h5 { margin-bottom: initial; }
 
 .recent-posts{
     display: flex;
@@ -310,7 +309,7 @@ footer .footer-col{justify-self: center;}
 }
 
 .recent-posts .post-img-wrapper{
-    width: var(--size-150);
+    width: var(--size-100);
     margin-right: var(--size-10);
 }
 
@@ -319,7 +318,6 @@ footer .footer-col{justify-self: center;}
 .post-inner h6 a{
     color: var(--white);
     font-weight: 600;
-    font-size: .75rem;
 }
 
 .post-inner span{
